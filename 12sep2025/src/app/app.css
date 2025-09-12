@@ -1,0 +1,21 @@
+h1,h2{
+    text-align: center;
+}
+.btn{
+    width:300px;
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    margin: auto;
+
+}
+
+button{
+    width: 120px;
+    height: 50px;
+}
+
+button:hover{
+
+    background-color: rgb(31, 173, 150);
+}
